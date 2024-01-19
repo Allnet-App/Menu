@@ -26,7 +26,7 @@
     "composer/installers": "*",
     "pingpong/menus": "*",
     "typicms/nestablecollection": "*",
-    "asgardcms/core-module": "*",
+    "idavoll/core-module": "*",
     "astrotomic/laravel-translatable": "*"
   },
   "require-dev": {
