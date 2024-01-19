@@ -23,11 +23,11 @@
   },
   "require": {
     "php": ">=5.5",
-    "composer/installers": "~1.0",
-    "pingpong/menus": "2.*@dev",
-    "typicms/nestablecollection": "1.1.1",
-    "asgardcms/core-module": "~1.0",
-    "dimsav/laravel-translatable": "~5.0"
+    "composer/installers": "*",
+    "pingpong/menus": "*",
+    "typicms/nestablecollection": "*",
+    "asgardcms/core-module": "*",
+    "astrotomic/laravel-translatable": "*"
   },
   "require-dev": {
     "phpunit/phpunit": "~4.0",
